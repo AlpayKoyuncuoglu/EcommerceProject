@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Alpay\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Alpay\\.nuget\\packages"
+    ]
+  }
+}
